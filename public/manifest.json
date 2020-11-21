@@ -1,0 +1,27 @@
+{
+    "name": "Book Store",
+    "short_name": "BookStore",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F4F4F4",
+    "theme_color": "#F4F4F4", 
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "48x48",
+            "type": "image/x-icon"
+          },
+          {
+            "src": "coffe.png",
+            "type": "image/png",
+            "sizes": "1200x1200"
+          },
+          {
+            "src": "coffe.png",
+            "type": "image/png",
+            "sizes": "1200x1200",
+            "purpose": "maskable"
+          }
+    ]
+  }
